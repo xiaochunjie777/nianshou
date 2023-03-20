@@ -1,8 +1,8 @@
 <!--
- * @Author: 贺永胜
+ * @Author: 高旭辉
  * @Date: 2022-01-07 12:21:38
  * @email: 1378431028@qq.com
- * @LastEditors: 贺永胜
+ * @LastEditors: 高旭辉
  * @LastEditTime: 2022-01-10 00:17:00
  * @Descripttion: 弹幕组件
 -->
